@@ -1,1 +1,1 @@
-This is a simple Python program which assess the strength of a given password
+This is a simple Python program which assesses the strength of a given password
